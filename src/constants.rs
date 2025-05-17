@@ -1,4 +1,4 @@
-pub const LISTEN_ADDRESS: &str = "127.0.0.1:3000";
+pub const LISTEN_ADDRESS: &str = "127.0.0.1:8000";
 pub const MAX_CLIENTS: usize = 512;
 pub const MAX_CONCURRENT_STREAMS: u32 = 16;
 pub const PATH: &str = "/dns-query";
